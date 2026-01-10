@@ -9,10 +9,8 @@ Ce projet automatise la capture des dashboards Grafana et l’envoi quotidien pa
 - Capture des captures d’écran de dashboards définis dans la configuration.
 - Envoie les screenshots par email à une ou plusieurs adresses.
 - Fonctionne sur Windows avec Chrome (ou tout OS avec Chrome et ChromeDriver).
+Voici l'image du mail en question.
+<img width="1349" height="705" alt="Capture d&#39;écran 2026-01-08 144524" src="https://github.com/user-attachments/assets/91300f3e-6a50-473f-9e35-f12598113c7a" />
 
-## ⚙️ Configuration
-
-1. Crée un environnement virtuel Python (recommandé) :
-
-```bash
 python -m venv venv
+
